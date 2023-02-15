@@ -28,7 +28,7 @@ body{
 .config-link{
     text-decoration: wavy;
     text-decoration-line: underline;
-    color: rgb(0, 60, 255);
+    color: rgb(0, 85, 255);
     
 }
 
@@ -86,4 +86,15 @@ body{
 }
 .color{
     text-shadow: 5px 5px 5px black;
+}
+.social-link{
+    background: linear-gradient(to bottom, #6cd5f8 0%, #052fff 100%);
+    height: auto;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 7px 6px 20px 5px rgb(0, 0, 0);
+}
+.button{
+    color: whitesmoke;
 }
